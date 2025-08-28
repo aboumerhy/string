@@ -1,3 +1,6 @@
+Network: aaa
+Password: No password found or not stored
+--------------------------------------------------
 Network: BELL546
 Password: A2AC455CD7C1
 --------------------------------------------------
