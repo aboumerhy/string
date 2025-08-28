@@ -1,0 +1,15 @@
+Network: BELL546
+Password: A2AC455CD7C1
+--------------------------------------------------
+Network: Momma Net
+Password: claudine
+--------------------------------------------------
+Network: North Pole
+Password: e2010j2012l2014
+--------------------------------------------------
+Network: KhalilKhattar
+Password: JaberKhalil1946
+--------------------------------------------------
+Network: BELL400
+Password: No password found or not stored
+--------------------------------------------------
